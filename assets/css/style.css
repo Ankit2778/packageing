@@ -19135,7 +19135,7 @@ input:checked ~ .sign__form-rem--checkmark::after {
   background-position: center;
   background-repeat: no-repeat;
   background-color: #101828;
-  padding: 16rem 0 48px 0;
+  padding: 3rem 0 48px 0;
   margin-bottom: 0;
   
 }
